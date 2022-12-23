@@ -8,14 +8,6 @@ void file_i_o(){
 }
 //##################################################
 
-class Solution {
-public:
-    int racecar(int target) {
-        return target;
-    }
-};
-
-
 
 
 int main() {
@@ -23,7 +15,6 @@ ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
 	file_i_o();
 	// START //
-    Solution s;
-    cout<<s.racecar(5);    
+    
 	return 0;
 }
